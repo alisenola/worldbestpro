@@ -1,11 +1,4 @@
-
-<h3 align="center">
-My Tech Stacks
-</h3>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/hirokimoto/hirokimoto/master/assets/stack-hills.png" alt="stacks"/>
-</h3>
+<b>Nice to meet you!</b>
 
 ### Github Stats:
 
